@@ -3,7 +3,7 @@
 Hello, welcome to my tutorial how to build a RC Bluetooth car solar powered with Arduino.
 
 *******
-Tabelas de conteúdo 
+Tables of contents 
  1. [Objective](#Objective)
  2. [Tools](#tools)
  3. [How was it done?](#how)
@@ -20,7 +20,7 @@ The project aims to develop a battery-powered car recharged by solar energy and 
 
 <div id='tools'/> 
 
-## Ferramentas e materiais utilizados:
+## Tools and materials used:
 1 - Bluetooth Module HC-05 <br/>
 1 - Arduino UNO <br/>
 1 - Smartphone with Bluetooth and Dabble App installed. <br/>
