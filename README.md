@@ -75,7 +75,7 @@ If everything has gone correctly so far, you should be able to see the car respo
 
 [![Watch the video]()](https://user-images.githubusercontent.com/51727640/125174344-3036a480-e19b-11eb-86b6-2667dd08b5f5.mp4)
 
-If the video does not load properly in the README, please <a href="https://user-images.githubusercontent.com/51727640/125174344-3036a480-e19b-11eb-86b6-2667dd08b5f5.mp4" target="_blank"><span>click here</span></a> to open it in a new tab.
+If the video does not load properly in the README, please <a href="https://user-images.githubusercontent.com/51727640/125174344-3036a480-e19b-11eb-86b6-2667dd08b5f5.mp4" target="_blank"><span>click here</span></a> to open it.
 
 <div id='Learning'/>
 
