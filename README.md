@@ -73,7 +73,9 @@ In this case, the controller is a smartphone with the "Dabble" app installed. Wh
 ## Apresentation
 If everything has gone correctly so far, you should be able to see the car responding to commands. I posted the operation in the video below, which is edited, as it is the same video on my Instagram.
 
-https://user-images.githubusercontent.com/51727640/125174344-3036a480-e19b-11eb-86b6-2667dd08b5f5.mp4
+![Watch the video](https://user-images.githubusercontent.com/51727640/125174344-3036a480-e19b-11eb-86b6-2667dd08b5f5.mp4)
+
+If the video does not load properly in the README, please [click here](https://user-images.githubusercontent.com/51727640/125174344-3036a480-e19b-11eb-86b6-2667dd08b5f5.mp4) to open it in a new tab.
 
 
 <div id='Learning'/>
