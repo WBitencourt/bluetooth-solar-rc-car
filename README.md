@@ -1,4 +1,4 @@
-# Remote control bluetooth car solar powered 🕹
+# 🕹 Remote control bluetooth car solar powered 
 
 Hello, welcome to my tutorial how to build a RC Bluetooth car solar powered with Arduino.
 
